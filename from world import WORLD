@@ -1,0 +1,5 @@
+from world import WORLD
+
+class WORLD:
+	def __init__(self):
+		world = WORLD()
