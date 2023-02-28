@@ -9,7 +9,8 @@ This program runs and generates random creatures in a 3D morphospace in the PyBu
 
 A diagram of it is attached below
 
-<img width="996" alt="diagramphoto" src="https://user-images.githubusercontent.com/23564433/218646315-534b1151-6549-4756-958c-cb8c8ff0cc95.png">
+![untitled](https://user-images.githubusercontent.com/23564433/221767293-72b6e414-3910-4fe5-81b5-5cb223301285.png)
+
 
 Morphospace Description:
 
